@@ -17,6 +17,8 @@ Exploring ChatGPT, Open AI APIs
 - Without the hassle of local setup, you can get a devlopment environment interacting with your repository.
 - Read more about CodeSpaces [here](https://github.com/codespaces)
 - 1 min tutorial to get setup see this [video](https://youtu.be/_W9B7qc9lVc)
+- Note - As of Jan 2023 I read there is 15GB and 120 Core Hours of Free Use per month on personal account. Please review [here](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts)
+- If you have a day job and can only spend daily 30 mins on weekdays and 4 to 5 hours per weekend, the hours cover more than enough for self learning pace.(It will be less than 50 hours per month of use, hence the conclusion.)
 
 ## Lets begin OpenAI Exploration
 - Their guide is beautifully documented! Read [here](https://beta.openai.com/docs/api-reference/introduction)
