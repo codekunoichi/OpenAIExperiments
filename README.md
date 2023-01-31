@@ -30,3 +30,5 @@ Exploring ChatGPT, Open AI APIs
 ## Sample Code
 - Once you have setup your API keys, use this [sample code](https://github.com/openai/openai-python#usage) example to test API key is working well, codespace secret setup is correct.
 - The [sample.py](https://github.com/codekunoichi/OpenAIExperiments/blob/master/examples/sample.py) has also sample code from [here](https://beta.openai.com/docs/api-reference/introduction)
+- [This](https://platform.openai.com/examples) has better examples
+- Without coding or codespaces setup, explore capabilities click [here](https://platform.openai.com/playground)
