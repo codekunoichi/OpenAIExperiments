@@ -1,5 +1,6 @@
 import os
 import openai
+import json
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
@@ -13,4 +14,9 @@ response = openai.Completion.create(
   presence_penalty=0.0
 )
 
+print(type(response))
 print(response)
+# Parsing JSON data using json.loads()
+parsed_data = json.loads(str(response))
+
+print(parsed_data["choices"][0]["text"])
