@@ -12,7 +12,7 @@ response = openai.Completion.create(
   frequency_penalty=0.0,
   presence_penalty=0.0
 )
-print("Temprature = 0.1\n")
+print("Temperature = 0.1\n")
 print(response)
 
 
@@ -26,7 +26,7 @@ response = openai.Completion.create(
   presence_penalty=0.0
 )
 
-print("Temprature = 0.5\n")
+print("Temperature = 0.5\n")
 print(response)
 
 
@@ -40,5 +40,5 @@ response = openai.Completion.create(
   presence_penalty=0.0
 )
 
-print("Temprature = 0.9\n")
+print("Temperature = 0.9\n")
 print(response)
