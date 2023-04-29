@@ -1,0 +1,1 @@
+"postCreateCommand": "/bin/sh -c ./.devcontainer/setup.sh",
