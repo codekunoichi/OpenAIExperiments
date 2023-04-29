@@ -1,1 +1,1 @@
-"postCreateCommand": "/bin/sh -c ./.devcontainer/setup.sh",
+{"postCreateCommand": "/bin/sh -c ./.devcontainer/setup.sh"}
