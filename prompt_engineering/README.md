@@ -15,11 +15,11 @@ The content of this folder are obtained from the course [ChatGPT Prompt Engineer
 - Chatbot Lesson is the most fun one! You see the guiding principles #1(Provide clear instructions), #2(Give model time to think) both in play.
 - As of 04.29.2023 the following lecture run times were captured.
 - You can see 2 hours of investment, will leave you wiser and appreciative of what these LLMs are capable of!
-1. Introduction - 6 min
-2. Guideines - 17 min
-3. Iterative - 13 min
-4. Summarizing - 7 min
-5. Inferring - 12 min
-6. Transforming - 12 min
-7. Expading - 6 min
-8. Chatbot - 12 min
+1. [Introduction](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction) - 6 min
+2. [Guideines](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/2/guidelines) - 17 min
+3. [Iterative](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/3/iterative) - 13 min
+4. [Summarizing](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/4/summarizing) - 7 min
+5. [Inferring](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/5/inferring) - 12 min
+6. [Transforming](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/6/transforming) - 12 min
+7. [Expading](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/7/expanding) - 6 min
+8. [Chatbot](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/8/chatbot) - 12 min
