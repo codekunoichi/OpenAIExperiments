@@ -1,3 +1,7 @@
+#image files
+*.png
+*.jpg
+
 # Doc folder
 docs/
 
