@@ -2,7 +2,7 @@
 
 The following notes are from my learning journey while taking the course from Deeplearning.ai
 
-(Building Applications with VectorDB - Pinecone)[https://learn.deeplearning.ai/courses/building-applications-vector-databases/lesson/1/introduction]
+[Building Applications with VectorDB - Pinecone](https://learn.deeplearning.ai/courses/building-applications-vector-databases/lesson/1/introduction)
 
 ### Lesson 1 - Semantic Search
 
