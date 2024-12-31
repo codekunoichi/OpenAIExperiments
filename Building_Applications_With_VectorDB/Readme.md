@@ -12,6 +12,8 @@ We will build the following:
 
 ### Lesson 2 - RAG
 
+![alt text](image-1.png)
+
 ### Lesson 3 - Recommender System
 
 ### Lesson 4 - Hybrid Search
