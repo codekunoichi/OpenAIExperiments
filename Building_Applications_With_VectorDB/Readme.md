@@ -16,6 +16,8 @@ We will build the following:
 
 ### Lesson 3 - Recommender System
 
+![alt text](image-2.png)
+
 ### Lesson 4 - Hybrid Search
 
 ### Lesson 5 - Facial Similarity Search
