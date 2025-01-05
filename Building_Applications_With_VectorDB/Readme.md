@@ -20,6 +20,12 @@ We will build the following:
 
 ### Lesson 4 - Hybrid Search
 
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
 ### Lesson 5 - Facial Similarity Search
 
 ### Lesson 6 - Anomaly Detection
