@@ -28,6 +28,20 @@ We will build the following:
 
 ### Lesson 5 - Facial Similarity Search
 
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
+![alt text](image-10.png)
+
+![alt text](image-12.png)
+
 ### Lesson 6 - Anomaly Detection
+
+![alt text](image-13.png)
 
 
