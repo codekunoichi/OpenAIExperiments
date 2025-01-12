@@ -17,6 +17,8 @@ Prompt Template
 
 ### Memory
 
+![alt text](image-4.png)
+
 ### Chains
 
 ### Question and Answer
