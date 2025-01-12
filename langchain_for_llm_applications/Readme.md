@@ -6,7 +6,14 @@ Following notes are taken from the course [Langchain for LLM Applications](https
 
 ![alt text](image.png)
 
+![alt text](image-1.png)
+
 ### Models, Prompts and Parser
+
+Prompt Template
+![alt text](image-2.png)
+
+![alt text](image-3.png)
 
 ### Memory
 
