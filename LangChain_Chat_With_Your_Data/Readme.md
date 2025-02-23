@@ -13,3 +13,35 @@
 ![alt text](image-4.png)
 
 ![alt text](image-5.png)
+
+# Chapter 3 Vectorstores and Embeddings
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
+# Chatper 4 Retrieval
+
+![alt text](image-10.png)
+
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+![alt text](image-13.png)
+
+![alt text](image-14.png)
+
+![alt text](image-15.png)
+
+# Chapter 5 Question and Answer
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
