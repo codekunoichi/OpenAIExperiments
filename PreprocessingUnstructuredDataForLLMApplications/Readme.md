@@ -33,3 +33,11 @@ This course material came from the course Taught by deeplearning.ai. You can fin
 ![alt text](image-11.png)
 
 ![Chunking](image-12.png)
+
+![Chunking from Elements](image-13.png)
+
+![Example](image-14.png)
+
+### Chapter 4 Preprocessing PDFs and images
+
+![Document Image Analysis](image-15.png)
