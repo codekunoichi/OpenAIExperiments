@@ -41,3 +41,9 @@ This course material came from the course Taught by deeplearning.ai. You can fin
 ### Chapter 4 Preprocessing PDFs and images
 
 ![Document Image Analysis](image-15.png)
+
+![DIA Methods](image-16.png)
+
+![alt text](image-17.png)
+
+![alt text](image-18.png)
