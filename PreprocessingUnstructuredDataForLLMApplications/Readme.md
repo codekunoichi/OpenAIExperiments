@@ -15,3 +15,21 @@ This course material came from the course Taught by deeplearning.ai. You can fin
 ![Normalizing Diverse Documents](image-3.png)
 
 ![Data Serialization](image-4.png)
+
+![HTML](image-5.png)
+
+![PPT](image-6.png)
+
+![PPT](image-7.png)
+
+### Chapter 3 Metadata Extraction and Chunking
+
+![What is Metadata?](image-8.png)
+
+![Semantic Search for LLMs](image-9.png)
+
+![Hybrid Search(image-10.png)
+
+![alt text](image-11.png)
+
+![Chunking](image-12.png)
