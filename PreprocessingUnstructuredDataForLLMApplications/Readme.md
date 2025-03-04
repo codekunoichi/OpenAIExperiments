@@ -47,3 +47,21 @@ This course material came from the course Taught by deeplearning.ai. You can fin
 ![alt text](image-17.png)
 
 ![alt text](image-18.png)
+
+![Vision Transformers](image-19.png)
+
+![Advantages and Disadvantages](image-20.png)
+
+### Chapter 5 Extracting Tables
+
+![Table Extraction](image-21.png)
+
+![Table Transformers](image-22.png)
+
+![Vision Transformers](image-23.png)
+
+![aOCR Postprocessing](image-24.png)
+
+### Chapter 6 Build you own RAG Bot
+
+![Build your own RAG Bot](image-25.png)
