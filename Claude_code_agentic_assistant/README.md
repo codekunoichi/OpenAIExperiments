@@ -17,3 +17,16 @@ Following notes are from the course [Claude Code: A Highly Agentic Coding Assist
 ![alt text](image-6.png)
 
 ![alt text](image-7.png)
+
+![alt text](image-8.png)
+
+![alt text](image-10.png)
+
+# Chap 4 Adding a feature
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+
+To add say Playwright MCP server do this. This way we do not have to cut-paste screenshots into Claude CLI
+
+![alt text](image-13.png)
