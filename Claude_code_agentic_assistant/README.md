@@ -30,3 +30,10 @@ Following notes are from the course [Claude Code: A Highly Agentic Coding Assist
 To add say Playwright MCP server do this. This way we do not have to cut-paste screenshots into Claude CLI
 
 ![alt text](image-13.png)
+
+![alt text](image-15.png)
+Example on - How to tell Claude about the MCP Playwright server - use it and improve the button outcome for clear chat.
+
+![alt text](image-14.png)
+
+![alt text](image-16.png)
